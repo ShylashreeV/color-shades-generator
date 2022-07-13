@@ -6,7 +6,7 @@
   user-select: none;
 }
 .shades{
-  height: calc(100% 5rem);
+  height: calc(100% - 5rem);
 }
 .heading{
   color: #fff;
